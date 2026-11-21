@@ -1,0 +1,241 @@
+file,lang,font,condition,text
+fa_01_vazir_clean.png,fa,vazir,clean,امروز هوا آفتابی و گرم است.
+fa_01_vazir_noisy.png,fa,vazir,noisy,امروز هوا آفتابی و گرم است.
+fa_01_nazli_clean.png,fa,nazli,clean,امروز هوا آفتابی و گرم است.
+fa_01_nazli_noisy.png,fa,nazli,noisy,امروز هوا آفتابی و گرم است.
+fa_02_vazir_clean.png,fa,vazir,clean,کتابخانه دانشگاه ساعت هشت صبح باز می‌شود.
+fa_02_vazir_noisy.png,fa,vazir,noisy,کتابخانه دانشگاه ساعت هشت صبح باز می‌شود.
+fa_02_nazli_clean.png,fa,nazli,clean,کتابخانه دانشگاه ساعت هشت صبح باز می‌شود.
+fa_02_nazli_noisy.png,fa,nazli,noisy,کتابخانه دانشگاه ساعت هشت صبح باز می‌شود.
+fa_03_vazir_clean.png,fa,vazir,clean,قیمت این کتاب ۲۵۰ هزار تومان است.
+fa_03_vazir_noisy.png,fa,vazir,noisy,قیمت این کتاب ۲۵۰ هزار تومان است.
+fa_03_nazli_clean.png,fa,nazli,clean,قیمت این کتاب ۲۵۰ هزار تومان است.
+fa_03_nazli_noisy.png,fa,nazli,noisy,قیمت این کتاب ۲۵۰ هزار تومان است.
+fa_04_vazir_clean.png,fa,vazir,clean,لطفاً قبل از جلسه گزارش را بخوانید.
+fa_04_vazir_noisy.png,fa,vazir,noisy,لطفاً قبل از جلسه گزارش را بخوانید.
+fa_04_nazli_clean.png,fa,nazli,clean,لطفاً قبل از جلسه گزارش را بخوانید.
+fa_04_nazli_noisy.png,fa,nazli,noisy,لطفاً قبل از جلسه گزارش را بخوانید.
+fa_05_vazir_clean.png,fa,vazir,clean,دانشجویان باید تمرین‌ها را تا پایان هفته تحویل دهند.
+fa_05_vazir_noisy.png,fa,vazir,noisy,دانشجویان باید تمرین‌ها را تا پایان هفته تحویل دهند.
+fa_05_nazli_clean.png,fa,nazli,clean,دانشجویان باید تمرین‌ها را تا پایان هفته تحویل دهند.
+fa_05_nazli_noisy.png,fa,nazli,noisy,دانشجویان باید تمرین‌ها را تا پایان هفته تحویل دهند.
+fa_06_vazir_clean.png,fa,vazir,clean,تهران پایتخت ایران است.
+fa_06_vazir_noisy.png,fa,vazir,noisy,تهران پایتخت ایران است.
+fa_06_nazli_clean.png,fa,nazli,clean,تهران پایتخت ایران است.
+fa_06_nazli_noisy.png,fa,nazli,noisy,تهران پایتخت ایران است.
+fa_07_vazir_clean.png,fa,vazir,clean,من هر روز با مترو به محل کار می‌روم.
+fa_07_vazir_noisy.png,fa,vazir,noisy,من هر روز با مترو به محل کار می‌روم.
+fa_07_nazli_clean.png,fa,nazli,clean,من هر روز با مترو به محل کار می‌روم.
+fa_07_nazli_noisy.png,fa,nazli,noisy,من هر روز با مترو به محل کار می‌روم.
+fa_08_vazir_clean.png,fa,vazir,clean,این برنامه متن را از روی تصویر می‌خواند.
+fa_08_vazir_noisy.png,fa,vazir,noisy,این برنامه متن را از روی تصویر می‌خواند.
+fa_08_nazli_clean.png,fa,nazli,clean,این برنامه متن را از روی تصویر می‌خواند.
+fa_08_nazli_noisy.png,fa,nazli,noisy,این برنامه متن را از روی تصویر می‌خواند.
+fa_09_vazir_clean.png,fa,vazir,clean,شماره تماس دفتر ۰۲۱۸۸۷۷۶۶۵۵ است.
+fa_09_vazir_noisy.png,fa,vazir,noisy,شماره تماس دفتر ۰۲۱۸۸۷۷۶۶۵۵ است.
+fa_09_nazli_clean.png,fa,nazli,clean,شماره تماس دفتر ۰۲۱۸۸۷۷۶۶۵۵ است.
+fa_09_nazli_noisy.png,fa,nazli,noisy,شماره تماس دفتر ۰۲۱۸۸۷۷۶۶۵۵ است.
+fa_10_vazir_clean.png,fa,vazir,clean,کلاس زبان انگلیسی امروز تعطیل شد.
+fa_10_vazir_noisy.png,fa,vazir,noisy,کلاس زبان انگلیسی امروز تعطیل شد.
+fa_10_nazli_clean.png,fa,nazli,clean,کلاس زبان انگلیسی امروز تعطیل شد.
+fa_10_nazli_noisy.png,fa,nazli,noisy,کلاس زبان انگلیسی امروز تعطیل شد.
+fa_11_vazir_clean.png,fa,vazir,clean,او در سال ۱۳۹۸ فارغ‌التحصیل شد.
+fa_11_vazir_noisy.png,fa,vazir,noisy,او در سال ۱۳۹۸ فارغ‌التحصیل شد.
+fa_11_nazli_clean.png,fa,nazli,clean,او در سال ۱۳۹۸ فارغ‌التحصیل شد.
+fa_11_nazli_noisy.png,fa,nazli,noisy,او در سال ۱۳۹۸ فارغ‌التحصیل شد.
+fa_12_vazir_clean.png,fa,vazir,clean,باران دیشب تا صبح ادامه داشت.
+fa_12_vazir_noisy.png,fa,vazir,noisy,باران دیشب تا صبح ادامه داشت.
+fa_12_nazli_clean.png,fa,nazli,clean,باران دیشب تا صبح ادامه داشت.
+fa_12_nazli_noisy.png,fa,nazli,noisy,باران دیشب تا صبح ادامه داشت.
+fa_13_vazir_clean.png,fa,vazir,clean,برای ثبت‌نام به سایت دانشگاه مراجعه کنید.
+fa_13_vazir_noisy.png,fa,vazir,noisy,برای ثبت‌نام به سایت دانشگاه مراجعه کنید.
+fa_13_nazli_clean.png,fa,nazli,clean,برای ثبت‌نام به سایت دانشگاه مراجعه کنید.
+fa_13_nazli_noisy.png,fa,nazli,noisy,برای ثبت‌نام به سایت دانشگاه مراجعه کنید.
+fa_14_vazir_clean.png,fa,vazir,clean,نتایج آزمون هفته آینده اعلام می‌شود.
+fa_14_vazir_noisy.png,fa,vazir,noisy,نتایج آزمون هفته آینده اعلام می‌شود.
+fa_14_nazli_clean.png,fa,nazli,clean,نتایج آزمون هفته آینده اعلام می‌شود.
+fa_14_nazli_noisy.png,fa,nazli,noisy,نتایج آزمون هفته آینده اعلام می‌شود.
+fa_15_vazir_clean.png,fa,vazir,clean,این رستوران غذاهای سنتی خوبی دارد.
+fa_15_vazir_noisy.png,fa,vazir,noisy,این رستوران غذاهای سنتی خوبی دارد.
+fa_15_nazli_clean.png,fa,nazli,clean,این رستوران غذاهای سنتی خوبی دارد.
+fa_15_nazli_noisy.png,fa,nazli,noisy,این رستوران غذاهای سنتی خوبی دارد.
+fa_16_vazir_clean.png,fa,vazir,clean,لطفاً گوشی‌های همراه خود را خاموش کنید.
+fa_16_vazir_noisy.png,fa,vazir,noisy,لطفاً گوشی‌های همراه خود را خاموش کنید.
+fa_16_nazli_clean.png,fa,nazli,clean,لطفاً گوشی‌های همراه خود را خاموش کنید.
+fa_16_nazli_noisy.png,fa,nazli,noisy,لطفاً گوشی‌های همراه خود را خاموش کنید.
+fa_17_vazir_clean.png,fa,vazir,clean,پروژه باید تا آخر ماه تمام شود.
+fa_17_vazir_noisy.png,fa,vazir,noisy,پروژه باید تا آخر ماه تمام شود.
+fa_17_nazli_clean.png,fa,nazli,clean,پروژه باید تا آخر ماه تمام شود.
+fa_17_nazli_noisy.png,fa,nazli,noisy,پروژه باید تا آخر ماه تمام شود.
+fa_18_vazir_clean.png,fa,vazir,clean,فاصله دو شهر حدود ۴۵۰ کیلومتر است.
+fa_18_vazir_noisy.png,fa,vazir,noisy,فاصله دو شهر حدود ۴۵۰ کیلومتر است.
+fa_18_nazli_clean.png,fa,nazli,clean,فاصله دو شهر حدود ۴۵۰ کیلومتر است.
+fa_18_nazli_noisy.png,fa,nazli,noisy,فاصله دو شهر حدود ۴۵۰ کیلومتر است.
+fa_19_vazir_clean.png,fa,vazir,clean,بچه‌ها در پارک بازی می‌کنند.
+fa_19_vazir_noisy.png,fa,vazir,noisy,بچه‌ها در پارک بازی می‌کنند.
+fa_19_nazli_clean.png,fa,nazli,clean,بچه‌ها در پارک بازی می‌کنند.
+fa_19_nazli_noisy.png,fa,nazli,noisy,بچه‌ها در پارک بازی می‌کنند.
+fa_20_vazir_clean.png,fa,vazir,clean,استاد درباره یادگیری عمیق صحبت کرد.
+fa_20_vazir_noisy.png,fa,vazir,noisy,استاد درباره یادگیری عمیق صحبت کرد.
+fa_20_nazli_clean.png,fa,nazli,clean,استاد درباره یادگیری عمیق صحبت کرد.
+fa_20_nazli_noisy.png,fa,nazli,noisy,استاد درباره یادگیری عمیق صحبت کرد.
+fa_21_vazir_clean.png,fa,vazir,clean,نامه را با پست سفارشی فرستادم.
+fa_21_vazir_noisy.png,fa,vazir,noisy,نامه را با پست سفارشی فرستادم.
+fa_21_nazli_clean.png,fa,nazli,clean,نامه را با پست سفارشی فرستادم.
+fa_21_nazli_noisy.png,fa,nazli,noisy,نامه را با پست سفارشی فرستادم.
+fa_22_vazir_clean.png,fa,vazir,clean,فروشگاه تا ساعت ده شب باز است.
+fa_22_vazir_noisy.png,fa,vazir,noisy,فروشگاه تا ساعت ده شب باز است.
+fa_22_nazli_clean.png,fa,nazli,clean,فروشگاه تا ساعت ده شب باز است.
+fa_22_nazli_noisy.png,fa,nazli,noisy,فروشگاه تا ساعت ده شب باز است.
+fa_23_vazir_clean.png,fa,vazir,clean,این مقاله درباره پردازش تصویر نوشته شده است.
+fa_23_vazir_noisy.png,fa,vazir,noisy,این مقاله درباره پردازش تصویر نوشته شده است.
+fa_23_nazli_clean.png,fa,nazli,clean,این مقاله درباره پردازش تصویر نوشته شده است.
+fa_23_nazli_noisy.png,fa,nazli,noisy,این مقاله درباره پردازش تصویر نوشته شده است.
+fa_24_vazir_clean.png,fa,vazir,clean,جلسه بعدی روز دوشنبه برگزار می‌شود.
+fa_24_vazir_noisy.png,fa,vazir,noisy,جلسه بعدی روز دوشنبه برگزار می‌شود.
+fa_24_nazli_clean.png,fa,nazli,clean,جلسه بعدی روز دوشنبه برگزار می‌شود.
+fa_24_nazli_noisy.png,fa,nazli,noisy,جلسه بعدی روز دوشنبه برگزار می‌شود.
+fa_25_vazir_clean.png,fa,vazir,clean,هزینه بلیت قطار افزایش یافته است.
+fa_25_vazir_noisy.png,fa,vazir,noisy,هزینه بلیت قطار افزایش یافته است.
+fa_25_nazli_clean.png,fa,nazli,clean,هزینه بلیت قطار افزایش یافته است.
+fa_25_nazli_noisy.png,fa,nazli,noisy,هزینه بلیت قطار افزایش یافته است.
+fa_26_vazir_clean.png,fa,vazir,clean,کتاب‌های قدیمی در قفسه بالا هستند.
+fa_26_vazir_noisy.png,fa,vazir,noisy,کتاب‌های قدیمی در قفسه بالا هستند.
+fa_26_nazli_clean.png,fa,nazli,clean,کتاب‌های قدیمی در قفسه بالا هستند.
+fa_26_nazli_noisy.png,fa,nazli,noisy,کتاب‌های قدیمی در قفسه بالا هستند.
+fa_27_vazir_clean.png,fa,vazir,clean,ما برای تعطیلات به شمال سفر کردیم.
+fa_27_vazir_noisy.png,fa,vazir,noisy,ما برای تعطیلات به شمال سفر کردیم.
+fa_27_nazli_clean.png,fa,nazli,clean,ما برای تعطیلات به شمال سفر کردیم.
+fa_27_nazli_noisy.png,fa,nazli,noisy,ما برای تعطیلات به شمال سفر کردیم.
+fa_28_vazir_clean.png,fa,vazir,clean,کامپیوتر من حافظه کافی ندارد.
+fa_28_vazir_noisy.png,fa,vazir,noisy,کامپیوتر من حافظه کافی ندارد.
+fa_28_nazli_clean.png,fa,nazli,clean,کامپیوتر من حافظه کافی ندارد.
+fa_28_nazli_noisy.png,fa,nazli,noisy,کامپیوتر من حافظه کافی ندارد.
+fa_29_vazir_clean.png,fa,vazir,clean,لطفاً فرم را با خودکار آبی پر کنید.
+fa_29_vazir_noisy.png,fa,vazir,noisy,لطفاً فرم را با خودکار آبی پر کنید.
+fa_29_nazli_clean.png,fa,nazli,clean,لطفاً فرم را با خودکار آبی پر کنید.
+fa_29_nazli_noisy.png,fa,nazli,noisy,لطفاً فرم را با خودکار آبی پر کنید.
+fa_30_vazir_clean.png,fa,vazir,clean,نتیجه این آزمایش رضایت‌بخش بود.
+fa_30_vazir_noisy.png,fa,vazir,noisy,نتیجه این آزمایش رضایت‌بخش بود.
+fa_30_nazli_clean.png,fa,nazli,clean,نتیجه این آزمایش رضایت‌بخش بود.
+fa_30_nazli_noisy.png,fa,nazli,noisy,نتیجه این آزمایش رضایت‌بخش بود.
+en_01_liberation_clean.png,en,liberation,clean,The weather is sunny and warm today.
+en_01_liberation_noisy.png,en,liberation,noisy,The weather is sunny and warm today.
+en_01_dejavu_clean.png,en,dejavu,clean,The weather is sunny and warm today.
+en_01_dejavu_noisy.png,en,dejavu,noisy,The weather is sunny and warm today.
+en_02_liberation_clean.png,en,liberation,clean,The university library opens at 8 a.m.
+en_02_liberation_noisy.png,en,liberation,noisy,The university library opens at 8 a.m.
+en_02_dejavu_clean.png,en,dejavu,clean,The university library opens at 8 a.m.
+en_02_dejavu_noisy.png,en,dejavu,noisy,The university library opens at 8 a.m.
+en_03_liberation_clean.png,en,liberation,clean,This book costs 25 dollars.
+en_03_liberation_noisy.png,en,liberation,noisy,This book costs 25 dollars.
+en_03_dejavu_clean.png,en,dejavu,clean,This book costs 25 dollars.
+en_03_dejavu_noisy.png,en,dejavu,noisy,This book costs 25 dollars.
+en_04_liberation_clean.png,en,liberation,clean,Please read the report before the meeting.
+en_04_liberation_noisy.png,en,liberation,noisy,Please read the report before the meeting.
+en_04_dejavu_clean.png,en,dejavu,clean,Please read the report before the meeting.
+en_04_dejavu_noisy.png,en,dejavu,noisy,Please read the report before the meeting.
+en_05_liberation_clean.png,en,liberation,clean,Students must submit their homework by Friday.
+en_05_liberation_noisy.png,en,liberation,noisy,Students must submit their homework by Friday.
+en_05_dejavu_clean.png,en,dejavu,clean,Students must submit their homework by Friday.
+en_05_dejavu_noisy.png,en,dejavu,noisy,Students must submit their homework by Friday.
+en_06_liberation_clean.png,en,liberation,clean,London is the capital of England.
+en_06_liberation_noisy.png,en,liberation,noisy,London is the capital of England.
+en_06_dejavu_clean.png,en,dejavu,clean,London is the capital of England.
+en_06_dejavu_noisy.png,en,dejavu,noisy,London is the capital of England.
+en_07_liberation_clean.png,en,liberation,clean,I take the train to work every day.
+en_07_liberation_noisy.png,en,liberation,noisy,I take the train to work every day.
+en_07_dejavu_clean.png,en,dejavu,clean,I take the train to work every day.
+en_07_dejavu_noisy.png,en,dejavu,noisy,I take the train to work every day.
+en_08_liberation_clean.png,en,liberation,clean,This program reads text from an image.
+en_08_liberation_noisy.png,en,liberation,noisy,This program reads text from an image.
+en_08_dejavu_clean.png,en,dejavu,clean,This program reads text from an image.
+en_08_dejavu_noisy.png,en,dejavu,noisy,This program reads text from an image.
+en_09_liberation_clean.png,en,liberation,clean,Call the office at 555-0142 for details.
+en_09_liberation_noisy.png,en,liberation,noisy,Call the office at 555-0142 for details.
+en_09_dejavu_clean.png,en,dejavu,clean,Call the office at 555-0142 for details.
+en_09_dejavu_noisy.png,en,dejavu,noisy,Call the office at 555-0142 for details.
+en_10_liberation_clean.png,en,liberation,clean,The English class was canceled today.
+en_10_liberation_noisy.png,en,liberation,noisy,The English class was canceled today.
+en_10_dejavu_clean.png,en,dejavu,clean,The English class was canceled today.
+en_10_dejavu_noisy.png,en,dejavu,noisy,The English class was canceled today.
+en_11_liberation_clean.png,en,liberation,clean,She graduated from university in 2019.
+en_11_liberation_noisy.png,en,liberation,noisy,She graduated from university in 2019.
+en_11_dejavu_clean.png,en,dejavu,clean,She graduated from university in 2019.
+en_11_dejavu_noisy.png,en,dejavu,noisy,She graduated from university in 2019.
+en_12_liberation_clean.png,en,liberation,clean,It rained all night until the morning.
+en_12_liberation_noisy.png,en,liberation,noisy,It rained all night until the morning.
+en_12_dejavu_clean.png,en,dejavu,clean,It rained all night until the morning.
+en_12_dejavu_noisy.png,en,dejavu,noisy,It rained all night until the morning.
+en_13_liberation_clean.png,en,liberation,clean,Visit the university website to register.
+en_13_liberation_noisy.png,en,liberation,noisy,Visit the university website to register.
+en_13_dejavu_clean.png,en,dejavu,clean,Visit the university website to register.
+en_13_dejavu_noisy.png,en,dejavu,noisy,Visit the university website to register.
+en_14_liberation_clean.png,en,liberation,clean,Exam results will be announced next week.
+en_14_liberation_noisy.png,en,liberation,noisy,Exam results will be announced next week.
+en_14_dejavu_clean.png,en,dejavu,clean,Exam results will be announced next week.
+en_14_dejavu_noisy.png,en,dejavu,noisy,Exam results will be announced next week.
+en_15_liberation_clean.png,en,liberation,clean,This restaurant serves very good food.
+en_15_liberation_noisy.png,en,liberation,noisy,This restaurant serves very good food.
+en_15_dejavu_clean.png,en,dejavu,clean,This restaurant serves very good food.
+en_15_dejavu_noisy.png,en,dejavu,noisy,This restaurant serves very good food.
+en_16_liberation_clean.png,en,liberation,clean,Please turn off your mobile phones.
+en_16_liberation_noisy.png,en,liberation,noisy,Please turn off your mobile phones.
+en_16_dejavu_clean.png,en,dejavu,clean,Please turn off your mobile phones.
+en_16_dejavu_noisy.png,en,dejavu,noisy,Please turn off your mobile phones.
+en_17_liberation_clean.png,en,liberation,clean,The project must be finished by the end of May.
+en_17_liberation_noisy.png,en,liberation,noisy,The project must be finished by the end of May.
+en_17_dejavu_clean.png,en,dejavu,clean,The project must be finished by the end of May.
+en_17_dejavu_noisy.png,en,dejavu,noisy,The project must be finished by the end of May.
+en_18_liberation_clean.png,en,liberation,clean,The two cities are about 450 km apart.
+en_18_liberation_noisy.png,en,liberation,noisy,The two cities are about 450 km apart.
+en_18_dejavu_clean.png,en,dejavu,clean,The two cities are about 450 km apart.
+en_18_dejavu_noisy.png,en,dejavu,noisy,The two cities are about 450 km apart.
+en_19_liberation_clean.png,en,liberation,clean,The children are playing in the park.
+en_19_liberation_noisy.png,en,liberation,noisy,The children are playing in the park.
+en_19_dejavu_clean.png,en,dejavu,clean,The children are playing in the park.
+en_19_dejavu_noisy.png,en,dejavu,noisy,The children are playing in the park.
+en_20_liberation_clean.png,en,liberation,clean,The professor talked about deep learning.
+en_20_liberation_noisy.png,en,liberation,noisy,The professor talked about deep learning.
+en_20_dejavu_clean.png,en,dejavu,clean,The professor talked about deep learning.
+en_20_dejavu_noisy.png,en,dejavu,noisy,The professor talked about deep learning.
+en_21_liberation_clean.png,en,liberation,clean,I sent the letter by registered mail.
+en_21_liberation_noisy.png,en,liberation,noisy,I sent the letter by registered mail.
+en_21_dejavu_clean.png,en,dejavu,clean,I sent the letter by registered mail.
+en_21_dejavu_noisy.png,en,dejavu,noisy,I sent the letter by registered mail.
+en_22_liberation_clean.png,en,liberation,clean,The shop is open until 10 p.m.
+en_22_liberation_noisy.png,en,liberation,noisy,The shop is open until 10 p.m.
+en_22_dejavu_clean.png,en,dejavu,clean,The shop is open until 10 p.m.
+en_22_dejavu_noisy.png,en,dejavu,noisy,The shop is open until 10 p.m.
+en_23_liberation_clean.png,en,liberation,clean,This paper is about image processing.
+en_23_liberation_noisy.png,en,liberation,noisy,This paper is about image processing.
+en_23_dejavu_clean.png,en,dejavu,clean,This paper is about image processing.
+en_23_dejavu_noisy.png,en,dejavu,noisy,This paper is about image processing.
+en_24_liberation_clean.png,en,liberation,clean,The next meeting will be held on Monday.
+en_24_liberation_noisy.png,en,liberation,noisy,The next meeting will be held on Monday.
+en_24_dejavu_clean.png,en,dejavu,clean,The next meeting will be held on Monday.
+en_24_dejavu_noisy.png,en,dejavu,noisy,The next meeting will be held on Monday.
+en_25_liberation_clean.png,en,liberation,clean,Train ticket prices have gone up.
+en_25_liberation_noisy.png,en,liberation,noisy,Train ticket prices have gone up.
+en_25_dejavu_clean.png,en,dejavu,clean,Train ticket prices have gone up.
+en_25_dejavu_noisy.png,en,dejavu,noisy,Train ticket prices have gone up.
+en_26_liberation_clean.png,en,liberation,clean,The old books are on the top shelf.
+en_26_liberation_noisy.png,en,liberation,noisy,The old books are on the top shelf.
+en_26_dejavu_clean.png,en,dejavu,clean,The old books are on the top shelf.
+en_26_dejavu_noisy.png,en,dejavu,noisy,The old books are on the top shelf.
+en_27_liberation_clean.png,en,liberation,clean,We traveled north for the holidays.
+en_27_liberation_noisy.png,en,liberation,noisy,We traveled north for the holidays.
+en_27_dejavu_clean.png,en,dejavu,clean,We traveled north for the holidays.
+en_27_dejavu_noisy.png,en,dejavu,noisy,We traveled north for the holidays.
+en_28_liberation_clean.png,en,liberation,clean,My computer does not have enough memory.
+en_28_liberation_noisy.png,en,liberation,noisy,My computer does not have enough memory.
+en_28_dejavu_clean.png,en,dejavu,clean,My computer does not have enough memory.
+en_28_dejavu_noisy.png,en,dejavu,noisy,My computer does not have enough memory.
+en_29_liberation_clean.png,en,liberation,clean,Please fill in the form with a blue pen.
+en_29_liberation_noisy.png,en,liberation,noisy,Please fill in the form with a blue pen.
+en_29_dejavu_clean.png,en,dejavu,clean,Please fill in the form with a blue pen.
+en_29_dejavu_noisy.png,en,dejavu,noisy,Please fill in the form with a blue pen.
+en_30_liberation_clean.png,en,liberation,clean,The result of this test was good.
+en_30_liberation_noisy.png,en,liberation,noisy,The result of this test was good.
+en_30_dejavu_clean.png,en,dejavu,clean,The result of this test was good.
+en_30_dejavu_noisy.png,en,dejavu,noisy,The result of this test was good.

@@ -1,0 +1,9 @@
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+pytesseract
+pillow
+numpy
+pandas
+jiwer
+opencv-python-headless
+openpyxl
